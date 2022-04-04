@@ -1,0 +1,7 @@
+{
+  "name": "madebyaman-scroller",
+  "version": "1.0.0",
+  "description": "Easy to use scrolling library for Rewact",
+  "main": "src/index.js",
+  "license": "MIT"
+}
